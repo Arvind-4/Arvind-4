@@ -13,6 +13,7 @@ I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving an
  - HTML/CSS, Bootstrap5
  - Git, GitHub
  - SQLite,  MySQL, PostgreSQL, MongoDB
+ - Visual Studio Code, Sublime Text, PyCharm, Linux
 
 
 📫 How to reach me: <br><br>
