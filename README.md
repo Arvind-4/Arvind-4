@@ -2,10 +2,10 @@
 
 I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving and Software Development. I enjoy learning about new technologies. My goal is not only to adopt it and evolve with it but also contribute to the awesome changes that technology brings to our life! that's why I Code!
 
-🌱 I’m currently learning more about **AI/ML**.
-👯 I’m looking for **Internship** on **Web Development**  and **Python**
-💬 Ask me about **Python**.
-😄 Pronouns: He/His
+🌱 I’m currently learning more about **AI/ML**.<br>
+👯 I’m looking for **Internship** on **Web Development**  and **Python**<br>
+💬 Ask me about **Python**.<br>
+😄 Pronouns: He/His<br>
 ⚡ Languages and Tools:
  - Python
  - C/C++
