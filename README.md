@@ -9,6 +9,7 @@ I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving an
 ⚡ Languages and Tools:
  - Python
  - C/C++
+ - GUI (in python)
  - HTML/CSS, Bootstrap5
  - Git, GitHub
  - SQLite,  MySQL, PostgreSQL, MongoDB
