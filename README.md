@@ -20,6 +20,6 @@ I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving an
 	[Website](http://arvind11.ml) - [http://arvind11.ml](http://arvind11.ml)<br>
 	[Instagram](https://www.instagram.com/_arvind.a_/) - [_arvind.a_](https://www.instagram.com/_arvind.a_/)<br>
 			[Linkedin](https://www.linkedin.com/in/arvind-a-840b48211/) - [Arvind A](https://www.linkedin.com/in/arvind-a-840b48211/)<br>
-			[Twitter](https://twitter.com/Arvind423207283) - [@Arvind_4](https://www.instagram.com/_arvind.a_/)<br>
+			[Twitter](https://twitter.com/Arvind423207283) - [@Arvind_4](https://twitter.com/Arvind423207283)<br>
 			[Facebook](https://www.facebook.com/people/Arvind/100025343731726/) - [#Arvind](https://www.facebook.com/people/Arvind/100025343731726/)<br>
 			[Mail](mailto:lordarvindthegamer@gmail.com) - [lordarvindthegamer@gmail.com](mailto:lordarvindthegamer@gmail.com)
