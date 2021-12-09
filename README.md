@@ -7,10 +7,11 @@ I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving an
 💬 Ask me about **Python**.<br>
 😄 Pronouns: He/His<br>
 ⚡ Languages and Tools:
- - Python
+ - Python, Django, Flask
  - C/C++
  - GUI (in Python)
- - HTML/CSS, Bootstrap5
+ - HTML/CSS, Bootstrap5, Tailwind CSS, JavaScript, TypeScript
+ - React Js, Next Js
  - Git, GitHub
  - SQLite,  MySQL, PostgreSQL, MongoDB
  - Visual Studio Code, Sublime Text, PyCharm, Linux
