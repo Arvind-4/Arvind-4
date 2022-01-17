@@ -1,4 +1,4 @@
-# 👋 Hi I am [Arvind!](http://arvind11.ml)
+# 👋 Hi I am [Arvind!](http://arvind11.tk)
 
 I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving and Software Development. I enjoy learning about new technologies. My goal is not only to adopt it and evolve with it but also contribute to the awesome changes that technology brings to our life! that's why I Code!
 
@@ -18,7 +18,7 @@ I am a **ECE** Student from **SRM** with a strong interest in Problem-Solving an
 
 
 📫 How to reach me: <br><br>
-	[Website](http://arvind11.ml) - [http://arvind11.ml](http://arvind11.ml)<br>
+	[Website](http://arvind11.tk) - [http://arvind11.tk](http://arvind11.tk)<br>
 	[Instagram](https://www.instagram.com/_arvind.a_/) - [_arvind.a_](https://www.instagram.com/_arvind.a_/)<br>
 			[Linkedin](https://www.linkedin.com/in/arvind-a-840b48211/) - [Arvind A](https://www.linkedin.com/in/arvind-a-840b48211/)<br>
 			[Twitter](https://twitter.com/Arvind423207283) - [@Arvind_4](https://twitter.com/Arvind423207283)<br>
